@@ -2,7 +2,7 @@
 
 Repo con los cursos de la carrera de data science.
 
-#### Curso basico de Python
+#### 1. Curso basico de Python
 
 Ejercicios basicos en pyhton.
 
