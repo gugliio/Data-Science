@@ -6,3 +6,7 @@ print('Replace ' + nombre.replace('o', 'a'))
 print('Length ' + str(len(nombre)))
 
 print('Trim ' + nombre.strip()) 
+
+#Slices 
+
+print('Slice' , nombre[0:3])
