@@ -7,5 +7,5 @@ Repo con los cursos de la carrera de data science.
 Ejercicios basicos en pyhton.
 
 ```bash
-./basic_python/
+./basic-python/
 ```
